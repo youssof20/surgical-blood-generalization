@@ -1,0 +1,29 @@
+# Data and trained weights (large / local only)
+data/
+outputs/models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Optional: uncomment if per_frame CSV grows past ~50 MB
+# outputs/results/per_frame_analysis.csv

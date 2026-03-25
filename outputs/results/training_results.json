@@ -1,0 +1,20 @@
+{
+  "best_epoch": 39,
+  "hemoset_val_dice": 0.9097384502250042,
+  "hemoset_val_iou": 0.8344222085175456,
+  "hemoset_val_precision": 0.9000393765916764,
+  "hemoset_val_recall": 0.9196488408773121,
+  "cholecseg8k_dice": 0.0011395099055004744,
+  "cholecseg8k_iou": 0.000570079758518669,
+  "cholecseg8k_precision": 0.0011583265837093377,
+  "cholecseg8k_recall": 0.0011212947978838867,
+  "dice_drop_pct": 99.87474313026797,
+  "iou_drop_pct": 99.93167969971324,
+  "epochs_trained": 49,
+  "early_stopped": true,
+  "failure_modes": {
+    "PARTIAL": 4556,
+    "FALSE_POSITIVE": 3408,
+    "CORRECT": 116
+  }
+}

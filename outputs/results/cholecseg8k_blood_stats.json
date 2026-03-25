@@ -1,0 +1,12 @@
+{
+  "total_frames": 8080,
+  "frames_with_blood": 4556,
+  "frames_without_blood": 3524,
+  "blood_pixel_pct_mean": 1.8781992468503441,
+  "blood_class_rgb": [
+    231,
+    70,
+    156
+  ],
+  "note": "Blood pixels match RGB (231,70,156) in color masks (class Blood, watershed ID 13 in samples)."
+}
